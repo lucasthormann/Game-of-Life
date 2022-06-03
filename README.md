@@ -11,7 +11,7 @@
 * Install the latest versions of the JDK and an IDE capable of compiling and executing Java files.
 
 **Program Execution**
-* I've used Eclipse IDE for running and debugging, so the execution could be done using the graphical interface of the IDE.
+* I've used the Eclipse IDE for running and debugging.
 
 **Conway's Game of Life Rule Set**
 - At the heart of this game are four simple rules that determine if a cell is live or dead. All depend on how many of that cell's neighbors are alive.
