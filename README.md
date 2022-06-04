@@ -14,7 +14,7 @@
 * I've used the Eclipse IDE for running and debugging, thus for simplicity sake I suggest that you do as well.
 
 **Conway's Game of Life Rule Set**
-- At the heart of this game are four simple rules that determine if a cell is live or dead. All depend on how many of that cell's neighbors are alive.
+- At the heart of this game are four simple rules that determine if a cell is live or dead.
 ```
 1. Births: Each dead cell adjacent to exactly three live neighbors will become live in the next generation.
 2. Death by isolation: Each live cell with one or fewer live neighbors will die in the next generation.
