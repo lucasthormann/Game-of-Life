@@ -8,7 +8,7 @@
 * In order to properly build and run this program, you must install all of the files included in the repository. This software is capable of running on any digital, computational device capable of compiling and executing Java files. Once you have properly installed the files you should then open them in an IDE capable of compiling and executing Java files. Once the files are properly opened in a functional IDE, use the tools provided by the IDE to build and run the program.
 
 **Dependencies**
-* Install the latest versions of the JDK and an IDE capable of compiling and executing Java files.
+* Install the latest versions of the JDK and an IDE capable of compiling and executing .java files.
 
 **Program Execution**
 * I've used the Eclipse IDE for running and debugging, thus for simplicity sake I suggest that you do as well.
