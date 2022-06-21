@@ -1,5 +1,5 @@
 # ***Conway's-Game-of-Life***
-* This program is the solution to the fifth homework assignment assigned in the Object Oriented Principals & Design course from the Computer Science Department of Texas State University during the Fall 2021 semester. It is an adapted implementation of John Conway's Game of Life written in Java.
+* This program is a solution to the fifth homework assignment assigned in the Object Oriented Principals & Design course from the Computer Science Department of Texas State University during the Fall 2021 semester. It is an adapted implementation of John Conway's Game of Life written in Java.
 
 **Description**
 * This program is a digitalized version of a cellular automaton devised by the British mathematician John Horton Conway. The program allows the user to set the initial configuration of the game board and the number of evolutions to be processed. The user will then be able to observe the final state of the board after all evolutions have been processed. The logic of this program is implemented using threads such that each cell in the automaton is evaluated within its own subprocess. In order to properly use this software the user must understand John Conway's Game of Life and all of its associated rules.
