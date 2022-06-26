@@ -5,7 +5,10 @@
 * This program is a digitalized version of a cellular automaton devised by the British mathematician John Horton Conway. The program allows the user to set the initial configuration of the game board and the number of evolutions to be processed. The user will then be able to observe the final state of the board after all evolutions have been processed. The logic of this program is implemented using threads such that each cell in the automaton is evaluated within its own subprocess. In order to properly use this software the user must understand John Conway's Game of Life and all of its associated rules.
 
 **Building on Windows/MAC/Linux**
-* In order to properly build and run this program, you must install all of the files included in the repository. This software is capable of running on any digital, computational device capable of compiling and executing Java files. Once you have properly installed the files you should then open them in an IDE capable of compiling and executing Java files. Once the files are properly opened in a functional IDE, use the tools provided by the IDE to build and run the program.
+* In order to properly build and run this program, you must install all of the files included in the repository. This software is capable of running on any digital, computational device capable of compiling and executing Java files. Once you have properly installed the files you should then open them in an IDE capable of compiling and executing Java files. Once the files are properly opened in a functional IDE, use the tools provided by the IDE to build and run the program. You can clone the repo by running the following command:
+```
+git clone https://github.com/lucasthormann/game-of-life.git
+```
 
 **Dependencies**
 * Install the latest versions of the JDK and an IDE capable of compiling and executing files with the JAVA file extension.
